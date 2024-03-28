@@ -551,6 +551,7 @@
 		<property name="cameraTurnRate" value=".2, .35"/>
 		<property name="upAngleMax" value="70"/>
 		<property name="upForce" value="1"/>
+		<property name="hopForce" value="4, .025"/>
 		<property name="steerRate" value="130"/>
 		<property name="steerCenteringRate" value="90"/>
 		<property name="tiltAngleMax" value="80"/>
@@ -721,6 +722,7 @@
 		<property name="cameraTurnRate" value=".2, .35"/>
 		<property name="upAngleMax" value="70"/>
 		<property name="upForce" value="1"/>
+		<property name="hopForce" value="4, .025"/>		
 		<property name="steerRate" value="130"/>
 		<property name="steerCenteringRate" value="90"/>
 		<property name="tiltAngleMax" value="80"/>
@@ -891,6 +893,7 @@
 		<property name="cameraTurnRate" value=".2, .35"/>
 		<property name="upAngleMax" value="70"/>
 		<property name="upForce" value="1"/>
+		<property name="hopForce" value="4, .025"/>
 		<property name="steerRate" value="130"/>
 		<property name="steerCenteringRate" value="90"/>
 		<property name="tiltAngleMax" value="80"/>
@@ -1044,6 +1047,7 @@
 		<property name="cameraTurnRate" value=".2, .35"/>
 		<property name="upAngleMax" value="70"/>
 		<property name="upForce" value="1"/>
+		<property name="hopForce" value="4, .025"/>
 		<property name="steerRate" value="130"/>
 		<property name="steerCenteringRate" value="90"/>
 		<property name="tiltAngleMax" value="80"/>
@@ -1340,7 +1344,7 @@
 				<property name="trigger" value="motor0"/>
 				<property name="type" value="relative"/>
 				<property name="force" value="0, .195, 0"/>
-				<property name="ceiling" value="200, 280"/>
+				<property name="ceiling" value="260, 280"/>
 			</property>
 
 			<property class="force1">
@@ -1498,6 +1502,7 @@
 		<property name="cameraTurnRate" value=".2, .35"/>
 		<property name="upAngleMax" value="70"/>
 		<property name="upForce" value="1"/>
+		<property name="hopForce" value="4, .025"/>
 		<property name="steerAngleMax" value="10"/>
 		<property name="steerRate" value="100"/>
 		<property name="steerCenteringRate" value="90"/>

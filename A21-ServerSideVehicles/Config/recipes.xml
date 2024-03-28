@@ -53,21 +53,21 @@
 			<ingredient name="resourceScrapPolymers" count="6"/>
 		</recipe>
 
-		<!--recipe name="vehicleHellCarPlaceable" count="1" craft_time="400" craft_area="workbench" tags="workbenchCrafting">
+		<recipe name="vehicleHellCarPlaceable" count="1" craft_time="400" craft_area="workbench" tags="workbenchCrafting">
 			<ingredient name="vehicle4x4TruckPlaceable" count="1"/>
 			<ingredient name="resourceForgedIron" count="50"/>
 			<ingredient name="resourceElectricParts" count="20"/>
 			<ingredient name="resourceMechanicalParts" count="30"/>
 			<ingredient name="resourceScrapPolymers" count="6"/>
-		</recipe-->
+		</recipe>
 
-		<!--recipe name="vehicleMagicBusPlaceable" count="1" craft_time="400" craft_area="workbench" tags="workbenchCrafting">
+		<recipe name="vehicleMagicBusPlaceable" count="1" craft_time="400" craft_area="workbench" tags="workbenchCrafting">
 			<ingredient name="vehicle4x4TruckPlaceable" count="1"/>
 			<ingredient name="resourceForgedIron" count="50"/>
 			<ingredient name="resourceElectricParts" count="20"/>
 			<ingredient name="resourceMechanicalParts" count="30"/>
 			<ingredient name="resourceWood" count="500"/>
-		</recipe-->		
+		</recipe>		
 
 <!-- Flyers -->
 
@@ -79,23 +79,23 @@
 			<ingredient name="resourceScrapPolymers" count="10"/>
 		</recipe>
 		
-		<!--recipe name="vehicleSharkBlimpPlaceable" count="1" craft_time="120" craft_area="workbench" tags="workbenchCrafting">
+		<recipe name="vehicleSharkBlimpPlaceable" count="1" craft_time="120" craft_area="workbench" tags="workbenchCrafting">
 	        <ingredient name="vehicleGyrocopterPlaceable" count="1"/>
 			<ingredient name="resourceScrapPolymers" count="30"/>
 			<ingredient name="resourceCloth" count="20"/>
 			<ingredient name="resourceBone" count="20"/>
 			<ingredient name="foodRawMeat" count="20"/>	
-        </recipe-->		
+        </recipe>		
 
 <!-- Bicycle Base -->
 
-		<!--recipe name="vehicleSledPlaceable" count="1" craft_time="120" craft_area="workbench" tags="workbenchCrafting">
+		<recipe name="vehicleSledPlaceable" count="1" craft_time="120" craft_area="workbench" tags="workbenchCrafting">
 			<ingredient name="resourceNail" count="40"/>
 			<ingredient name="resourceWood" count="100"/>
 			<ingredient name="resourceCloth" count="20"/>
 			<ingredient name="resourceBone" count="20"/>
 			<ingredient name="foodRawMeat" count="20"/>
-		</recipe-->	
+		</recipe>	
 		
 	</append>
 </configs>
